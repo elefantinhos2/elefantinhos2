@@ -2,7 +2,7 @@
 
 - 🌱 Eu Atualmente estou aprendento Tecnologias para Desenvolvimento Web em Fron-End <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Back-end <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
  e Banco de Dados (Postgres_DB).
-🚀 Some of my main projects:
+🚀 Alguns dos meus Projetos:
 
 <!-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
 
@@ -27,7 +27,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-douglasramires01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:douglasramires01@gmail.com)](mailto:douglasramires01@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasramires/)](https://www.linkedin.com/in/douglasramires/)
+[![Linkedin Badge](https://img.shields.io/badge/-douglasramires-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglasramires/)](https://www.linkedin.com/in/douglasramires/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/elefantinhos2)](https://github.com/elefantinhos2)
 
 <hr>
