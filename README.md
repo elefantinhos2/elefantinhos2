@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Meu Nome é Douglas eu sou um Dev em desenvolvimento, eu sempre tive curiosidade 
+em saber como os jogos o páginas web funcionavam por baixo dos panos. Essa curiodade me levou ao curso de Análise e Desenvolvimento de Sistemas, foi durante a faculdade que comecei a dar meus primeiros passos na área de tecnoligia aprendendo um pouco de tudo; Java Programação Orientada a Objeto, Sistema Operacional e Banco de Dados. Porém foi durante o curso de fullstack, que tive oportunidade de realizar na Kenzi Academy, que eu pude desenvolver minhas habilidades como programador na prática.
+
 - 🌱 Eu Atualmente estou aprendento Tecnologias para Desenvolvimento Web em Fron-End <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" /> Back-end <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
  e Banco de Dados (Postgres_DB).
 🚀 Alguns dos meus Projetos:
