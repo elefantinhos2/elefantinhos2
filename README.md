@@ -4,6 +4,8 @@
  e Banco de Dados (Postgres_DB).
 🚀 Alguns dos meus Projetos:
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elefantinhos2&repo=projeto-NetFlix)](https://github.com/elefantinhos2/projeto-NetFlix)-->
+
 <!-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
