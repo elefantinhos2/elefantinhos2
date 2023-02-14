@@ -7,7 +7,7 @@ em saber como os jogos o páginas web funcionavam por baixo dos panos. Essa curi
  e Banco de Dados (Postgres_DB).
 🚀 Alguns dos meus Projetos:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elefantinhos2&repo=projeto-NetFlix)](https://github.com/elefantinhos2/projeto-NetFlix)-->
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elefantinhos2&repo=projeto-NetFlix)](https://github.com/elefantinhos2/projeto-NetFlix)
 
 <!-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
 
