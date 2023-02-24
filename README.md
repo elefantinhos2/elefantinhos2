@@ -9,6 +9,8 @@ em saber como os jogos o páginas web funcionavam por baixo dos panos. Essa curi
 
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elefantinhos2&repo=projeto-NetFlix)](https://github.com/elefantinhos2/projeto-NetFlix)
 
+- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=elefantinhos2&repo=projeto-rede-social)](https://elefantinhos2.github.io/projeto-rede-social/)
+
 <!-- 🔭 I’m currently working on a Project in Angular and another Project with MongoDb and NodeJS:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minoveaz&repo=angular-web-portfolio)](https://github.com/minoveaz/angular-web-portfolio)
